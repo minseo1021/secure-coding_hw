@@ -1,4 +1,3 @@
-# secure-coding_hw
 # Tiny Second-hand Shopping Platform
 
 ## 실행 방법
