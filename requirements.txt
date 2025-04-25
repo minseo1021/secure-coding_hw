@@ -1,0 +1,4 @@
+Flask
+Flask_SQLAlchemy
+Flask_Bcrypt
+Flask_JWT_Extended
